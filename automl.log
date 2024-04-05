@@ -1,0 +1,4 @@
+2024-04-05 20:43:35.679 - INFO - 18500 - azureml.train.automl._local_managed_utils.is_docker_installed:356 - Docker is not installed.
+2024-04-05 20:43:35.681 - INFO - 18500 - azureml.train.automl.automlconfig._start_execution:231 - Submitting remote.
+2024-04-05 20:44:41.247 - INFO - 18500 - azureml.train.automl._local_managed_utils.is_docker_installed:356 - Docker is not installed.
+2024-04-05 20:44:41.255 - INFO - 18500 - azureml.train.automl.automlconfig._start_execution:231 - Submitting remote.
